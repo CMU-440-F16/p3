@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests
+END
+runall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/runall.sh
+END
+tribtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/tribtest.sh
+END
+stresstest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/stresstest.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/Makefile
+END
+storagetest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/storagetest.sh
+END
+libtest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/libtest.sh
+END
+storagetest2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/storagetest2.sh
+END
+libtest2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/15-440/!svn/ver/1941/2014.Spring/projects/spring2014/p2/tests/libtest2.sh
+END

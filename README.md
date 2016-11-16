@@ -19,6 +19,9 @@ src/github.com/cmu440-F16/
   tests/                           Source code for official tests
     paxostest/                     Tests your paxos implementation
   
+  runners/                          The runner used to launch a instance of your paxos node
+    prunner/
+  
   rpc/
     paxosrpc/                      Paxos RPC helpers/constants
     
