@@ -84,12 +84,12 @@ The scripts may be run from anywhere on your system (assuming your `GOPATH` has 
 they are being executed on a 64-bit Mac OS X or Linux machine). Simply execute the following:
 
 ```bash
-$GOPATH/tests/paxostest.sh
+$GOPATH/tests/paxostest_cp.sh
 ```
 
 #### 2. Full test
 
-**The tests for the whole project are not provided for this project.** You should develop your own
+**The tests for the whole project are not provided for the final test.** You should develop your own
 ways of testing your code. After the checkpoint is due, we will open up submissions for the final
 version and run the full suite of tests.
 
